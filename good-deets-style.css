@@ -1,0 +1,18 @@
+@-moz-document url-prefix(https://www.foodnetwork.com/shows/good-eats/episodes/)
+{
+  .o-VideoPlaylistEmbed .col-md-18 {
+    width: 100%;
+  }
+
+  .video-wrapper {
+    padding: 0rem !important;
+  }
+
+  .video-wrapper .o-VideoPlaylistEmbed {
+    width: 100% !important;
+  }
+
+  .m-VideoPlayer__a-Container {
+    padding-bottom: 75%;
+  }
+}
